@@ -9,4 +9,4 @@
 ![Application Screenshot](File_Maker.png)
 
 ### Application Output
-[Application Output Screenshot](Example_Output.png)
+![Application Output Screenshot](Example_Output.png)
